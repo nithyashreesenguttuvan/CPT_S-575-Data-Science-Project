@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kunal/OneDrive%20-%20Washington%20State%20University%20%28email.wsu.edu%29/Desktop/Data%20Science/mlruns/1/e5365216996c47878bb80075aafd7948/artifacts
+end_time: 1670868658444
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e5365216996c47878bb80075aafd7948
+run_name: SVM - Radial Kernel
+run_uuid: e5365216996c47878bb80075aafd7948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670868658249
+status: 3
+tags: []
+user_id: kunal
