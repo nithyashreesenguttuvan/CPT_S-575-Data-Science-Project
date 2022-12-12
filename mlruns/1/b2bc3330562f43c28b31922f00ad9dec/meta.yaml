@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kunal/OneDrive%20-%20Washington%20State%20University%20%28email.wsu.edu%29/Desktop/Data%20Science/mlruns/1/b2bc3330562f43c28b31922f00ad9dec/artifacts
+end_time: 1670868811768
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b2bc3330562f43c28b31922f00ad9dec
+run_name: Ridge Classifier
+run_uuid: b2bc3330562f43c28b31922f00ad9dec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670868811597
+status: 3
+tags: []
+user_id: kunal
