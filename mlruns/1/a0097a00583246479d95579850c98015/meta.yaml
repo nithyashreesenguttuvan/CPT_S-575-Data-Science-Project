@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kunal/OneDrive%20-%20Washington%20State%20University%20%28email.wsu.edu%29/Desktop/Data%20Science/mlruns/1/a0097a00583246479d95579850c98015/artifacts
+end_time: 1670868813580
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a0097a00583246479d95579850c98015
+run_name: Ada Boost Classifier
+run_uuid: a0097a00583246479d95579850c98015
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670868813401
+status: 3
+tags: []
+user_id: kunal
