@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kunal/OneDrive%20-%20Washington%20State%20University%20%28email.wsu.edu%29/Desktop/Data%20Science/mlruns/1/d59036f6e4754a29bf28467b823bf51e/artifacts
+end_time: 1670868810948
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d59036f6e4754a29bf28467b823bf51e
+run_name: Linear Discriminant Analysis
+run_uuid: d59036f6e4754a29bf28467b823bf51e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670868810771
+status: 3
+tags: []
+user_id: kunal
