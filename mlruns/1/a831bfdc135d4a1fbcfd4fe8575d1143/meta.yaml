@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kunal/OneDrive%20-%20Washington%20State%20University%20%28email.wsu.edu%29/Desktop/Data%20Science/mlruns/1/a831bfdc135d4a1fbcfd4fe8575d1143/artifacts
+end_time: 1670868660700
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a831bfdc135d4a1fbcfd4fe8575d1143
+run_name: K Neighbors Classifier
+run_uuid: a831bfdc135d4a1fbcfd4fe8575d1143
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670868660516
+status: 3
+tags: []
+user_id: kunal
