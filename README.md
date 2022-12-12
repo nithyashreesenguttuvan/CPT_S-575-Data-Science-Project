@@ -1,6 +1,6 @@
 # Data-Science-Project
 
-Uncovering “The Great Resignation”
+*Uncovering “The Great Resignation”*
 
 Team members - Priyanka Gosh Dastidar, Nithyashree Senguttuvan, Kunal Sanghvi
 
